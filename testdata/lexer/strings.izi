@@ -1,0 +1,5 @@
+fn main() {
+    let greeting: string = "hi"
+    let enabled = true != false
+    return
+}
