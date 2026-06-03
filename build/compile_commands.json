@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi.dir/src/codegen/codegen.cpp.o -c /tmp/workspace/ismobaga/iz/src/codegen/codegen.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/codegen/codegen.cpp",
+  "output": "CMakeFiles/izi.dir/src/codegen/codegen.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi.dir/src/lexer/lexer.cpp.o -c /tmp/workspace/ismobaga/iz/src/lexer/lexer.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/lexer/lexer.cpp",
+  "output": "CMakeFiles/izi.dir/src/lexer/lexer.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi.dir/src/main.cpp.o -c /tmp/workspace/ismobaga/iz/src/main.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/main.cpp",
+  "output": "CMakeFiles/izi.dir/src/main.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi.dir/src/parser/parser.cpp.o -c /tmp/workspace/ismobaga/iz/src/parser/parser.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/parser/parser.cpp",
+  "output": "CMakeFiles/izi.dir/src/parser/parser.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi.dir/src/typechecker/typechecker.cpp.o -c /tmp/workspace/ismobaga/iz/src/typechecker/typechecker.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/typechecker/typechecker.cpp",
+  "output": "CMakeFiles/izi.dir/src/typechecker/typechecker.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi_tests.dir/tests/test_pipeline.cpp.o -c /tmp/workspace/ismobaga/iz/tests/test_pipeline.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/tests/test_pipeline.cpp",
+  "output": "CMakeFiles/izi_tests.dir/tests/test_pipeline.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi_tests.dir/src/lexer/lexer.cpp.o -c /tmp/workspace/ismobaga/iz/src/lexer/lexer.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/lexer/lexer.cpp",
+  "output": "CMakeFiles/izi_tests.dir/src/lexer/lexer.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi_tests.dir/src/parser/parser.cpp.o -c /tmp/workspace/ismobaga/iz/src/parser/parser.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/parser/parser.cpp",
+  "output": "CMakeFiles/izi_tests.dir/src/parser/parser.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi_tests.dir/src/typechecker/typechecker.cpp.o -c /tmp/workspace/ismobaga/iz/src/typechecker/typechecker.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/typechecker/typechecker.cpp",
+  "output": "CMakeFiles/izi_tests.dir/src/typechecker/typechecker.cpp.o"
+},
+{
+  "directory": "/tmp/workspace/ismobaga/iz/build",
+  "command": "/usr/bin/clang++-18 -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-18/include -I/tmp/workspace/ismobaga/iz/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/izi_tests.dir/src/codegen/codegen.cpp.o -c /tmp/workspace/ismobaga/iz/src/codegen/codegen.cpp",
+  "file": "/tmp/workspace/ismobaga/iz/src/codegen/codegen.cpp",
+  "output": "CMakeFiles/izi_tests.dir/src/codegen/codegen.cpp.o"
+}
+]

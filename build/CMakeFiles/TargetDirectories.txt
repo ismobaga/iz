@@ -1,0 +1,9 @@
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/intrinsics_gen.dir
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/omp_gen.dir
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/acc_gen.dir
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/izi.dir
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/izi_tests.dir
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/test.dir
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/edit_cache.dir
+/tmp/workspace/ismobaga/iz/build/CMakeFiles/rebuild_cache.dir
