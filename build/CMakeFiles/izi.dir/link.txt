@@ -1,1 +1,0 @@
-/usr/bin/clang++-18 -O3 -DNDEBUG -Xlinker --dependency-file=CMakeFiles/izi.dir/link.d CMakeFiles/izi.dir/src/codegen/codegen.cpp.o CMakeFiles/izi.dir/src/lexer/lexer.cpp.o CMakeFiles/izi.dir/src/main.cpp.o CMakeFiles/izi.dir/src/parser/parser.cpp.o CMakeFiles/izi.dir/src/typechecker/typechecker.cpp.o -o izi  -Wl,-rpath,/usr/lib/llvm-18/lib /usr/lib/llvm-18/lib/libLLVM-18.so
